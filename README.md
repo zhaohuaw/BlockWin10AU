@@ -4,4 +4,5 @@
 
 建议您可以尝试以管理员身份打开命令提示符，在命令行窗口中输入
 sc stop wuauserv
+
 sc config wuauserv start = disabled
